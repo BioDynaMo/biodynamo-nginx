@@ -1,7 +1,7 @@
 Example: redirect with nginx S2I
 ---
 
-Fork of [sclorg/nginx-ex](github.com/sclorg/nginx-ex)
+Fork of [sclorg/nginx-ex](https://github.com/sclorg/nginx-ex)
 [Upstream readme](README-upstream.md)
 
 
